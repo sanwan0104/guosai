@@ -1,0 +1,3 @@
+_id,code,message,data
+65cb5f56bb0c7f1b758f658d,00000,success,"{'name': '安恒杯第一届CTF大赛', 'subtitle': 'dbapp ctf game', 'matchLogo': '', 'sponsor': 'dbapp', 'sponsorLogo': '', 'problemCount': 10, 'playerCount': 100, 'onLineCount': 100, 'autoPlay': True, 'startTimestamp': 1703480400000, 'endTimestamp': 1703606399000}"
+661135e9077f590ff0138025,00000,success,"{'name': '安恒杯第一届CTF大赛', 'subtitle': 'dbapp ctf game', 'matchLogo': 'https://game.gcsis.cn/favicon.ico', 'sponsor': '安恒信息技术股份有限公司', 'sponsorLogo': 'https://www.dbappsecurity.com.cn/images/favicon.ico', 'problemCount': 10, 'playerCount': 100, 'onLineCount': 100, 'autoPlay': True, 'startTimestamp': 1703480400000, 'endTimestamp': 1703951999000}"
